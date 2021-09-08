@@ -28,6 +28,12 @@ Not fully acurate however the free API does the job. [View API →](https://api.
 ### Country Stats
 
 ```bash
-Reports include number from: Active, Confirmed, recoveries and Deceased cases.
+Reports include number from: Active, Confirmed, Recoveries and Deceased cases.
 Also graphing of Highest Active Cases by Month (2021)
 ```
+
+{{< img src="stats.jpg" alt="Rectangle" caption="<em>snip from site</em>" class="border-0" >}}
+
+### Buttery Smooth Animations
+
+<video width="100%" autoplay loop muted playsinline><source src="pan.webm" type="video/webm"><source src="animationstats.mp4" type="video/mp4"></video>
